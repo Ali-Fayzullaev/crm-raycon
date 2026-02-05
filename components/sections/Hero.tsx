@@ -19,7 +19,7 @@ export function Hero() {
             <div className="space-y-4">
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
                 Все каналы коммуникации в{" "}
-                <span className="text-accent">Rayson CRM</span>
+                <span className="text-accent">Raycon CRM</span>
               </h1>
               <div className="flex flex-wrap gap-2">
                 {features.map(({ icon: Icon, label }) => (
@@ -34,13 +34,13 @@ export function Hero() {
             <div className="space-y-4">
               <p className="text-lg md:text-xl text-gray-600 leading-relaxed">
                 Пока ваши менеджеры переключаются между окнами, вы теряете деньги.
-                Rayson объединяет все чаты WhatsApp в одну систему, чтобы вы
+                Raycon объединяет все чаты WhatsApp в одну систему, чтобы вы
                 закрывали сделки за 30 секунд.
               </p>
               <p className="text-gray-600 leading-relaxed">
                 Больше никаких пропущенных сообщений с Мультичатом. Объедините
                 диалоги, автоматизируйте ответы и смотрите, как растет ваша
-                прибыль, пока Rayson CRM наводит порядок. Забудьте об Экселе.
+                прибыль, пока Raycon CRM наводит порядок. Забудьте об Экселе.
               </p>
             </div>
 

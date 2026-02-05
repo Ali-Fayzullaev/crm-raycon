@@ -7,6 +7,7 @@ import { Plan } from "@/components/sections/Plan";
 import { SEOSection } from "@/components/sections/SEOSection";
 import { Video } from "@/components/sections/Video";
 import { Pricing } from "@/components/sections/Pricing";
+import { FAQ } from "@/components/sections/FAQ";
 import { ContactForm } from "@/components/sections/ContactForm";
 import { Footer } from "@/components/sections/Footer";
 
@@ -24,6 +25,7 @@ export default function Home() {
         <Video />
         <Pricing />
         <ContactForm />
+        <FAQ />
       </main>
       <Footer />
     </>

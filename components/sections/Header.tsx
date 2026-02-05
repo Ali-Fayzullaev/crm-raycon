@@ -22,7 +22,7 @@ export function Header() {
             <div className="w-10 h-10 bg-accent rounded-lg flex items-center justify-center">
               <span className="text-white font-bold text-xl">R</span>
             </div>
-            <span className="text-xl font-bold text-gray-900">Rayson CRM</span>
+            <span className="text-xl font-bold text-gray-900">Raycon CRM</span>
           </a>
 
           <nav className="hidden md:flex items-center gap-8">

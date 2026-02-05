@@ -82,7 +82,7 @@ export function ContactForm() {
                 Оставьте заявку прямо сейчас
               </h2>
               <p className="text-lg text-white/90 mb-6">
-                Получите бесплатную консультацию и демо-доступ к Rayson CRM.
+                Получите бесплатную консультацию и демо-доступ к Raycon CRM.
                 Наш специалист покажет все возможности системы.
               </p>
               <ul className="space-y-3">
